@@ -44,6 +44,6 @@
         
 <h2>Screenshots of IDE, code, and the program running on AVD</h2>
       
-<img src=https://github.com/AmberKRodriguez/Tip-Calculator-App/blob/main/Screenshot%202025-09-01%20at%201.56.57%E2%80%AFPM.png/>
+<img src= "Screenshot 2025-09-01 at 1.56.57 PM.png" height="500"/> 
 
-<img src=https://github.com/AmberKRodriguez/Tip-Calculator-App/blob/main/Screenshot%202025-09-01%20at%2012.51.23%E2%80%AFPM.png/> 
+<img src= "Screenshot 2025-09-01 at 12.51.23 PM.png" height="500"/> 
