@@ -1,7 +1,7 @@
 <a href="https://amberkrodriguez.github.io/Portfolio-/">BACK</a>
 
 <h1> <a href="https://github.com/AmberKRodriguez/Tip-Calculator-App">Tip Calculator App using Jetpack Compose</a> </h1>
-<br>
+
 <p>For this application I took what we learned in “Android Basics with Compose” and I modified the script we wrote by adding additional code. First I knew that we needed to be able to input the amount of guests so I included another EditNumberField in my TipCalculatorLayout() method. This edit field allowed for input of the number of guests so we could take that input and divide the total.  The number of guests would only be used in the calculation if the switch was changed to indicate a split bill. Because we didn't need to round up the tip with this version I modified the round up to be a split tip boolean switch. Additionally we needed to know how much the total was with tip as well as the total if split between a number so I added two additional methods one to calculate total per guest and another to calculate just the tip amount. To calculate the total per guest I took the  amount input and added the calculated tip then had that divided into the number of guest input.</p>
 <br>
 <h2><a href="https://github.com/AmberKRodriguez/Tip-Calculator-App/blob/main/CodePreview">Code Modifications</a></h2>
